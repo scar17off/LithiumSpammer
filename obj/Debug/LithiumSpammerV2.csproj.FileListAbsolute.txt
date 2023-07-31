@@ -1,0 +1,12 @@
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\bin\Debug\Guna.UI2.dll
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammerV2.csproj.AssemblyReference.cache
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammerV2.csproj.GenerateResource.cache
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammerV2.csproj.CoreCompileInputs.cache
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammerV2.csproj.CopyComplete
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammerV2.Spammer.resources
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\bin\Debug\LithiumSpammer.exe.config
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\bin\Debug\LithiumSpammer.exe
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\bin\Debug\LithiumSpammer.pdb
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammer.Properties.Resources.resources
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammer.exe
+C:\Users\scar1\OneDrive\Документы\Проекты\LithiumSpammerV2\obj\Debug\LithiumSpammer.pdb
